@@ -6,7 +6,6 @@ Welcome to the CodeAnt Project! This repository contains the source code for the
 
 You can access the live project through the following links:
 
-- [Code Ant - Project](https://code-ant-project-eo9wjyme9-harsh-sharmas-projects-0ef23254.vercel.app/)
 - [Code Ant - GitHub Master](https://code-ant-project-git-master-harsh-sharmas-projects-0ef23254.vercel.app/)
 - [Alternate Deployment Link](https://code-ant-project.vercel.app/)
 - [Code Ant Vercel Deployment](https://code-ant-project-eo9wjyme9-harsh-sharmas-projects-0ef23254.vercel.app/)
